@@ -31,3 +31,5 @@ Then learn about the format the the ML tools need and convert to this format. Yo
 write a paragraph what researchers already are using for mangrove classification
 
 gdal cv2
+
+Task 1 Image data is stored via Google Drive [https://drive.google.com/drive/folders/14RzZ7dlkfxtTD5ggnABanWYEy_S7lNPw?usp=sharing]
