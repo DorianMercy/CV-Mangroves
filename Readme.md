@@ -1,4 +1,5 @@
-Please directly run Task1.ipynb.
+Please directly run Task1.ipynb for machine learning.
+Load.ipynb code part is the same as Load.py for data loading and visualization.
 
 ---------------------------------------- LOG ----------------------------------------
 https://www.planet.com
