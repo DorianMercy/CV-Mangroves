@@ -1,3 +1,6 @@
+Please directly run Task1.ipynb.
+
+---------------------------------------- LOG ----------------------------------------
 https://www.planet.com
 sentinel 2
 
